@@ -19,5 +19,5 @@ Welcome to the source code for my personal website: [moisesortega.com](https://m
 Want to get in touch? Reach out via:
 
 - 📬 Email: ortega.moises423@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/moisesortegaa/)
-- 🐙 [GitHub](https://github.com/moisesortegaa)
+- 💼 [LinkedIn](https://www.linkedin.com/in/moisesortega/)
+- 🐙 [GitHub](https://github.com/moisesortega)
