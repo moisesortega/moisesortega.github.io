@@ -5,7 +5,7 @@ Welcome to the source code for my personal website: [moisesortega.com](https://m
 ## 🛠 Tech Stack
 
 - HTML
-- CSS (vanilla or your framework here)
+- CSS vanilla
 - JavaScript (if any)
 - Hosted on GitHub Pages
 
