@@ -18,6 +18,6 @@ Welcome to the source code for my personal website: [moisesortega.com](https://m
 
 Want to get in touch? Reach out via:
 
-- 📬 Email: moisesortega.dev@gmail.com
+- 📬 Email: ortega.moises423@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/moisesortegaa/)
 - 🐙 [GitHub](https://github.com/moisesortegaa)
